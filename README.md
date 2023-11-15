@@ -10,10 +10,11 @@
 - 👨‍💻 All of my projects are available at [github.com/Jasim321](github.com/Jasim321)
 
 - 💬 Ask me about **
-                    Back-end: Python | Django | Flask | 
+                    Back-end: Python | Django | Flask | FastAPI 
                     Front-end: ReactJS | HTML | CSS | JavaScript | JQuery | Ajax |
                     Cloud Platforms: AWS | GCP | Azure| Docker |
                     Databases: PostgreSQL | MariaDB | MySQL | SQLite | MongoDB |
+                    Project Management | Agile 
 **
 
 - 📫 How to reach me **jasimfarrukh61@gmail.com**
