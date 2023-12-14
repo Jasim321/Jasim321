@@ -12,7 +12,7 @@
 - 💬 Ask me about **
                     Back-end: Python | Django | Flask | FastAPI 
                     Front-end: ReactJS | HTML | CSS | JavaScript | JQuery | Ajax |
-                    Cloud Platforms: AWS | GCP | Azure| Docker |
+                    Cloud Platforms: AWS | GCP | Azure| Digital Ocean| PythonAnyWhere| Docker |
                     Databases: PostgreSQL | MariaDB | MySQL | SQLite | MongoDB |
                     Project Management | Agile 
 **
